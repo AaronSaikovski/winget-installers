@@ -49,6 +49,7 @@ $other_apps = @(
     "Microsoft.Azd"
     "DevToys-app.DevToys"
     "Microsoft.Todos"
+    "Microsoft.Sysinternals.ZoomIt"
     "Microsoft.Office"
 );
 
